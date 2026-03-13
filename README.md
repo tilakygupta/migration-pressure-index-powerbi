@@ -192,7 +192,7 @@ migration-pressure-index/
 [Thakur College of Engineering & Technology] | [Masters of Computer Applications]
 Microsoft Elevate AICTE Internship — Power BI Track
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/tilak-gupta-0121b6220/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tilak-gupta-0121b6220)
 
 ---
 
