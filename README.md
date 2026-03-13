@@ -131,7 +131,7 @@ All tables linked via `State` column — Many-to-One relationships.
 
 1. **Clone this repository**
 ```bash
-   git clone https://github.com/yourusername/migration-pressure-index.git
+   git clone https://github.com/tilakygupta/migration-pressure-index.git
 ```
 
 2. **Open Power BI Desktop**
@@ -192,7 +192,7 @@ migration-pressure-index/
 [Thakur College of Engineering & Technology] | [Masters of Computer Applications]
 Microsoft Elevate AICTE Internship — Power BI Track
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/tilak-gupta-0121b6220/))
 
 ---
 
