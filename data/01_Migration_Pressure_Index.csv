@@ -1,0 +1,31 @@
+State,State_Code,Region,Unemployment_Rate,Rural_Poverty_Ratio,Literacy_Deficit,Avg_Daily_Wage,Drought_Frequency,Infrastructure_Index,Urban_GDP_PerCapita,Out_Migration_Rate,In_Migration_Rate,MPI_Score,Migration_Type
+Bihar,BR,East,16.4,33.7,32.1,250,4,28,45200,74.2,5.1,82,Source
+Uttar Pradesh,UP,North,11.8,29.4,28.6,280,3,34,52400,61.3,12.4,76,Source
+Jharkhand,JH,East,15.2,36.9,34.2,260,3,26,48600,68.4,6.2,79,Source
+Odisha,OD,East,10.6,32.5,22.4,270,3,31,51200,55.7,7.8,71,Source
+Chhattisgarh,CG,Central,9.8,30.1,24.8,265,4,29,49800,52.3,6.9,68,Source
+Madhya Pradesh,MP,Central,8.6,28.4,26.3,275,3,33,54600,48.6,9.2,65,Source
+Rajasthan,RJ,North,7.2,24.6,28.1,310,4,38,62300,42.1,11.3,61,Source
+Assam,AS,Northeast,8.4,27.3,16.8,280,2,30,50100,44.7,8.6,59,Source
+West Bengal,WB,East,5.6,19.8,12.4,320,2,42,68400,38.2,15.7,54,Both
+Uttarakhand,UK,North,5.2,18.4,10.1,340,2,45,74200,36.8,18.2,51,Source
+Himachal Pradesh,HP,North,4.1,14.2,6.8,380,1,52,88600,28.4,22.6,41,Balanced
+Punjab,PB,North,5.8,16.7,9.2,450,2,58,96400,34.6,19.8,45,Balanced
+Haryana,HR,North,4.6,14.8,8.4,480,2,62,104600,28.2,24.6,42,Both
+Delhi,DL,North,4.2,10.2,4.1,650,0,88,198400,8.4,68.4,22,Destination
+Maharashtra,MH,West,4.8,15.4,5.6,520,1,78,142600,12.6,58.2,26,Destination
+Gujarat,GJ,West,3.6,14.2,7.8,490,2,72,136800,18.4,42.6,32,Destination
+Karnataka,KA,South,4.2,15.8,6.2,480,1,74,128400,16.2,46.8,30,Destination
+Tamil Nadu,TN,South,3.8,13.6,4.8,460,1,76,124200,14.8,44.2,28,Destination
+Andhra Pradesh,AP,South,6.2,18.4,10.4,380,2,58,86400,28.6,28.4,46,Balanced
+Telangana,TS,South,5.4,16.8,8.6,420,1,64,112600,22.4,36.8,38,Destination
+Kerala,KL,South,7.6,8.4,0.6,520,1,82,118600,24.6,18.4,35,Source
+Goa,GA,West,2.8,6.2,2.4,680,0,86,168400,6.2,38.4,18,Destination
+Manipur,MN,Northeast,12.4,28.6,12.6,220,2,24,38200,48.4,4.6,64,Source
+Meghalaya,ML,Northeast,9.8,26.4,14.2,240,2,26,42600,42.6,5.8,60,Source
+Tripura,TR,Northeast,8.6,24.8,10.4,260,1,28,44800,36.4,7.2,56,Source
+Nagaland,NL,Northeast,11.2,24.2,8.2,230,1,22,36400,44.8,3.8,62,Source
+Arunachal Pradesh,AR,Northeast,6.8,22.4,12.6,280,1,32,52400,30.2,10.6,48,Source
+Mizoram,MZ,Northeast,5.4,18.6,0.8,310,1,36,62800,22.4,12.4,40,Balanced
+Sikkim,SK,Northeast,4.2,14.8,4.6,380,0,48,86400,16.8,22.6,36,Balanced
+Jammu & Kashmir,JK,North,7.8,22.6,14.2,360,1,44,72400,32.4,14.8,52,Source
