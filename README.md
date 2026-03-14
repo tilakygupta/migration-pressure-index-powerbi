@@ -166,7 +166,7 @@ All tables linked via `State` column — Many-to-One relationships.
 
 | Resource | Link |
 |----------|------|
-| 📊 **Live Dashboard (Power BI Service)** | [View Interactive Dashboard](https://app.powerbi.com/[your-published-link]) |
+| 📊 **Live Dashboard (Power BI Service)** | [View Interactive Dashboard](https://app.powerbi.com/links/wI7I1n8Xjz?ctid=e6193331-b1be-4c4b-bce1-6e536a914527&pbi_source=linkShare) |
 | 💾 **Download .pbix File** | [Migration_Pressure_Index.pbix](./Migration_Pressure_Index.pbix) |
 | 📄 **Project Presentation** | [MPI_Elevate_Final.pptx](./MPI_Elevate_Final.pptx) |
 
