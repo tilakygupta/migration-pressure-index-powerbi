@@ -160,6 +160,29 @@ All tables linked via `State` column — Many-to-One relationships.
 
 ---
 
+---
+
+## 🔗 Power BI Project File
+
+| Resource | Link |
+|----------|------|
+| 📊 **Live Dashboard (Power BI Service)** | [View Interactive Dashboard](https://app.powerbi.com/[your-published-link]) |
+| 💾 **Download .pbix File** | [Migration_Pressure_Index.pbix](./Migration_Pressure_Index.pbix) |
+| 📄 **Project Presentation** | [MPI_Elevate_Final.pptx](./MPI_Elevate_Final.pptx) |
+
+### How to Open the .pbix File
+
+1. Download **Power BI Desktop** free from [powerbi.microsoft.com/desktop](https://powerbi.microsoft.com/desktop)
+2. Click the green **Code** button on this repo → **Download ZIP**
+3. Extract the ZIP → open `Migration_Pressure_Index.pbix` in Power BI Desktop
+4. All 6 datasets are already embedded — no extra setup needed
+5. Click **Refresh** if you want to reload from the CSV files
+
+> **Note:** The live dashboard link requires a Power BI account to view.  
+> The .pbix file works completely offline in Power BI Desktop — no account needed.
+
+---
+
 ## 📁 Repository Structure
 ```
 migration-pressure-index/
